@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UnifiedCaptionHeight (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UnifiedCaptionHeight (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
